@@ -38,3 +38,5 @@ This project is part of my practical application and learning path in AI, electr
 
   ## 📸 Project Screenshot / Output
 ![Mood Mate AI Project](your-photo-name.png)
+Added project screenshot
+
