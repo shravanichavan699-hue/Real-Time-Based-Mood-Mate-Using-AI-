@@ -34,7 +34,7 @@ This project is part of my practical application and learning path in AI, electr
 ---
 
 ## 👥 Authors
-* **Shravani Chavan** - [तुमची GitHub प्रोफाइल लिंक इथे टाका]
+* **Shravani Chavan** - shravanichavan699-hue
 
   ## 📸 Project Screenshot / Output
 ![Mood Mate AI Project](your-photo-name.png)
