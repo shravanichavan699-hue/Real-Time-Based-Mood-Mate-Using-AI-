@@ -39,4 +39,7 @@ This project is part of my practical application and learning path in AI, electr
   ## 📸 Project Screenshot / Output
 ![Mood Mate AI Project](your-photo-name.png)
 Added project screenshot
+## Live Project Link
+https://www.ijarsct.co.in/Paper29518.pdf
+
 
